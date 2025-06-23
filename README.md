@@ -1,7 +1,7 @@
 
 # Debutanizer Data Modeling Project
 
-This project focuses on regression and classification tasks using real-world data from a debutanizer process. It includes outlier detection, regression modeling (Decision Tree, Random Forest, XGBoost), and classification using Naive Bayes after discretizing the target variable.
+This is my ongoing project which focuses on regression and classification tasks using real-world data from a debutanizer process. It includes outlier detection, regression modeling (Decision Tree, Random Forest, XGBoost), and classification using Naive Bayes after discretizing the target variable.
 
 ---
 
